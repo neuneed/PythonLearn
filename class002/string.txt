@@ -1,0 +1,511 @@
+1 2 q w
+1 2 q w
+1 2 3 q w
+1 2 3 q w e
+1 2 3 q w e
+1 2 3 4 q w e
+1 2 3 4 q w e r
+2 3 4 w e r
+2 3 4 5 w e r
+2 3 4 5 w e r t
+2 3 4 5 e r t
+3 4 5 e r t
+3 4 5 6 e r t y
+3 4 5 6 r t y
+4 5 6 r t y
+4 5 6 7 r t y
+4 5 6 7 t y u
+5 6 7 t y u
+5 6 7 8 t y u
+5 6 7 8 y u i
+6 7 8 y u i
+6 7 8 9 y u i
+6 7 8 9 u i o
+7 8 9 u i o
+7 8 9 0 u i o
+7 8 9 0 u i o p
+8 9 0 i o p
+8 9 0 i o p
+8 9 0 i o p
+8 9 0 o p
+9 0 o p
+9 0 o p
+1 2 q w
+1 2 q w
+1 2 3 q w e
+1 2 3 q w e
+1 2 3 q w e
+1 2 3 4 q w e r
+1 2 3 4 q w e r
+2 3 4 w e r
+2 3 4 5 w e r
+2 3 4 5 w e r t
+2 3 4 5 e r t
+3 4 5 e r t
+3 4 5 6 e r t y
+3 4 5 6 e r t y
+4 5 6 r t y
+4 5 6 7 r t y u
+4 5 6 7 r t y u
+5 6 7 t y u
+5 6 7 8 t y u i
+5 6 7 8 t y u i
+6 7 8 y u i
+6 7 8 9 y u i o
+6 7 8 9 y u i o
+7 8 9 u i o
+7 8 9 0 u i o
+7 8 9 0 u i o p
+8 9 0 i o p
+8 9 0 i o p
+8 9 0 i o p
+8 9 0 o p
+9 0 o p
+9 0 o p
+1 2 q w a
+1 2 q w a
+1 2 3 q w e a
+1 2 3 q w e a s
+1 2 3 q w e s
+1 2 3 4 q w e r s
+1 2 3 4 q w e r s d
+2 3 4 w e r s d
+2 3 4 5 w e r t d
+2 3 4 5 w e r t d
+2 3 4 5 w e r t d f
+3 4 5 e r t f
+3 4 5 6 e r t y f
+3 4 5 6 e r t y f g
+4 5 6 r t y f g
+4 5 6 7 r t y u g
+4 5 6 7 r t y u g
+5 6 7 t y u g h
+5 6 7 8 t y u i g h
+5 6 7 8 t y u i h
+6 7 8 y u i h j
+6 7 8 9 y u i o h j
+6 7 8 9 y u i o j
+7 8 9 u i o j
+7 8 9 0 u i o p j k
+7 8 9 0 u i o p j k
+8 9 0 i o p k
+8 9 0 i o p k l
+8 9 0 i o p k l
+8 9 0 i o p l
+9 0 o p l
+9 0 o p l
+1 2 q w a s
+1 2 q w a s
+1 2 3 q w e a s
+1 2 3 q w e a s
+1 2 3 q w e a s d
+1 2 3 q w e r a s d
+1 2 3 4 q w e r a s d
+2 3 4 w e r s d f
+2 3 4 w e r t s d f
+2 3 4 5 w e r t s d f
+3 4 5 w e r t d f
+3 4 5 e r t d f g
+3 4 5 6 e r t y d f g
+3 4 5 6 e r t y d f g
+4 5 6 r t y f g
+4 5 6 7 r t y u f g h
+4 5 6 7 r t y u f g h
+5 6 7 t y u g h
+5 6 7 8 t y u i g h j
+5 6 7 8 t y u i g h j
+6 7 8 y u i g h j
+6 7 8 9 y u i o h j
+6 7 8 9 y u i o h j k
+7 8 9 u i o h j k
+7 8 9 u i o p j k
+7 8 9 0 u i o p j k l
+8 9 0 i o p j k l
+8 9 0 i o p j k l
+8 9 0 i o p k l
+9 0 i o p k l
+9 0 o p k l
+9 0 o p l
+1 2 q w a s
+1 2 q w a s
+1 2 q w e a s
+1 2 3 q w e a s d
+1 2 3 q w e a s d
+1 2 3 q w e r a s d
+2 3 4 q w e r a s d
+2 3 4 w e r s d f
+2 3 4 w e r t s d f
+2 3 4 5 w e r t s d f
+3 4 5 w e r t s d f g
+3 4 5 e r t d f g
+3 4 5 e r t y d f g
+4 5 6 e r t y d f g
+4 5 6 r t y d f g h
+4 5 6 r t y u f g h
+5 6 7 r t y u f g h
+5 6 7 t y u f g h j
+5 6 7 t y u i g h j
+6 7 8 t y u i g h j
+6 7 8 y u i g h j
+6 7 8 y u i o g h j k
+7 8 9 y u i o h j k
+7 8 9 u i o h j k
+7 8 9 u i o p h j k l
+7 8 9 0 u i o p j k l
+8 9 0 i o p j k l
+8 9 0 i o p j k l
+8 9 0 i o p j k l
+9 0 i o p k l
+9 0 o p k l
+9 0 o p k l
+1 q w a s
+1 q w a s
+1 2 q w e a s
+1 2 q w e a s d
+1 2 q w e a s d
+2 3 q w e r a s d
+2 3 q w e r a s d f
+2 3 w e r a s d f
+3 4 w e r t s d f
+3 4 w e r t s d f
+3 4 w e r t s d f g
+4 5 e r t d f g
+4 5 e r t y d f g
+4 5 e r t y d f g h
+5 6 r t y d f g h
+5 6 r t y u f g h
+5 6 r t y u f g h
+6 t y u f g h j
+6 7 t y u i g h j
+6 7 t y u i g h j
+6 7 y u i g h j k
+7 8 y u i o g h j k
+7 8 y u i o h j k
+7 8 u i o h j k
+8 9 u i o p h j k l
+8 9 u i o p j k l
+8 9 i o p j k l
+9 0 i o p j k l
+9 0 i o p j k l
+9 0 i o p k l
+0 o p k l
+0 o p k l
+q w a s
+q w a s z
+q w e a s z
+q w e a s d z
+q w e a s d z x
+q w e r a s d z x
+q w e r a s d f z x
+w e r a s d f z x
+w e r s d f z x c
+w e r t s d f z x c
+e r t s d f g x c
+e r t d f g x c v
+e r t y d f g x c v
+e r t y d f g h c v
+r t y d f g h c v
+r t y u f g h c v b
+r t y u f g h c v b
+t y u f g h j v b
+t y u i g h j v b
+t y u i g h j v b n
+y u i g h j k b n
+y u i o g h j k b n
+y u i o h j k b n m
+u i o h j k b n m
+u i o p h j k l n m
+u i o p j k l n m
+i o p j k l n m
+i o p j k l m
+i o p j k l m
+i o p k l m
+o p k l m
+o p k l
+q w a s z
+q w a s z
+q w a s z
+q w e a s d z x
+q w e a s d z x
+q w e a s d z x
+q w e r a s d f z x
+w e r a s d f z x c
+w e r s d f z x c
+w e r t s d f z x c
+e r t s d f g z x c v
+e r t d f g x c v
+e r t y d f g x c v
+r t y d f g h x c v
+r t y d f g h c v b
+r t y u f g h c v b
+t y u f g h c v b
+t y u f g h j c v b n
+t y u g h j v b n
+y u i g h j v b n
+y u i g h j k v b n
+y u i g h j k b n m
+y u i o h j k b n m
+u i o h j k b n m
+u i o h j k l b n m
+u i o p j k l n m
+i o p j k l n m
+i o p j k l n m
+i o p j k l m
+o p k l m
+o p k l m
+o p k l m
+q a s z
+q w a s z
+q w a s z
+q w a s d z x
+q w e a s d z x
+q w e a s d z x
+w e a s d f z x c
+w e r a s d f z x c
+w e r s d f z x c
+e r s d f z x c
+e r t s d f g z x c v
+e r t d f g x c v
+r t d f g x c v
+r t d f g h x c v b
+r t y d f g h x c v b
+t y f g h c v b
+t y f g h c v b
+t y u f g h j c v b n
+y u g h j v b n
+y u g h j v b n
+y u i g h j k v b n
+u i g h j k v b n m
+u i h j k b n m
+u i o h j k b n m
+u i o h j k l b n m
+i o j k l n m
+i o p j k l n m
+i o p j k l n m
+o p j k l n m
+o p k l m
+o p k l m
+p k l m
+a s z
+a s z
+a s z
+a s d z x
+a s d z x
+a s d z x
+a s d f z x c ,
+a s d f z x c ,
+s d f z x c ,
+s d f z x c , space
+s d f g z x c v , space
+d f g x c v , space
+d f g x c v , space
+d f g h x c v b space
+d f g h x c v b space
+f g h c v b space
+f g h c v b space
+f g h j c v b n space
+g h j v b n space
+g h j v b n space
+g h j v b n m space
+g h j k v b n m space
+h j k b n m space .
+h j k b n m space .
+h j k l b n m space .
+j k l n m space .
+j k l n m .
+j k l n m .
+j k l n m .
+k l m
+k l m
+k l m
+a s z
+a s z
+a s z
+a s d z x
+a s d z x ,
+a s d z x ,
+a s d z x c ,
+s d f z x c ,
+s d f z x c , space
+s d f z x c , space
+s d f g z x c v , space
+d f g x c v , space
+d f g x c v , space
+d f g x c v b , space
+f g h x c v b , space
+f g h c v b space
+f g h c v b space
+f g h j c v b n space
+g h j v b n space
+g h j v b n space
+g h j v b n m space .
+h j k v b n m space .
+h j k b n m space .
+h j k b n m space .
+h j k l b n m space .
+j k l n m space .
+j k l n m space .
+j k l n m .
+j k l n m .
+k l m .
+k l m
+k l m
+a z
+a s z
+a s z
+a s z x
+a s d z x ,
+a s d z x ,
+s d z x c ,
+s d z x c , space
+s d f z x c , space
+s d f z x c , space
+d f z x c v , space
+d f g x c v , space
+d f g x c v , space
+f g x c v b , space
+f g x c v b , space
+f g h c v b space
+f g h c v b space
+g h c v b n space
+g h j v b n space
+g h j v b n space
+g h j v b n m space .
+h j v b n m space .
+h j k b n m space .
+h j k b n m space .
+j k b n m space .
+j k l n m space .
+j k l n m space .
+j k l n m space .
+k l n m .
+k l m .
+k l m .
+l m
+z
+z
+z
+z x
+z x ,
+z x ,
+z x c ,
+z x c , space
+z x c , space
+z x c , space
+z x c v , space
+x c v , space
+x c v , space
+x c v b , space
+x c v b , space
+c v b space
+c v b space
+c v b n space
+v b n space
+v b n space
+v b n m space .
+v b n m space .
+b n m space .
+b n m space .
+b n m space .
+n m space .
+n m space .
+n m space .
+n m .
+m .
+m .
+m
+z
+z
+z
+z x
+z x ,
+z x ,
+z x ,
+z x c , space
+z x c , space
+z x c , space
+z x c v , space
+x c v , space
+x c v , space
+x c v , space
+x c v b , space
+c v b space
+c v b space
+c v b n space
+v b n space
+v b n space
+v b n space .
+v b n m space .
+b n m space .
+b n m space .
+b n m space .
+n m space .
+n m space .
+n m space .
+n m .
+m .
+m .
+m
+z
+z
+z
+z
+z x ,
+z x ,
+z x ,
+z x c , space
+z x c , space
+z x c , space
+x c , space
+x c v , space
+x c v , space
+x c v , space
+c v b , space
+c v b space
+c v b space
+v b space
+v b n space
+v b n space
+v b n space .
+b n m space .
+b n m space .
+b n m space .
+n m space .
+n m space .
+n m space .
+n m space .
+m .
+m .
+m .
+
+
+
+z
+z
+z ,
+z ,
+z x ,
+z x , space
+z x , space
+x c , space
+x c , space
+x c , space
+c , space
+c v , space
+c v , space
+c v space
+v b space
+v b space
+v b space
+b space
+b n space .
+b n space .
+b n space .
+n m space .
+n m space .
+n m space .
+m space .
+m space .
+m .
+m .
+.
