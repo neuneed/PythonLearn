@@ -78,7 +78,7 @@ for i in range(100):
         aligut.append(i)
 print('写法1',aligut)
 
-bligut = [i for i in range(1,100) if i%3==0]
+bligut = [i for i in list(range(1,100)) if i%3==0]
 print('写法2',bligut)
 
 cligut = list(range(3,100,3))  # python3 range外面要加个list!!!
@@ -88,13 +88,6 @@ print('写法3',cligut)
 # s = s.strip()
 # print('s is',s)  # 去除空格
 
-
-maybag = [' glass',  '   apple', 'green leaf  ']
-for one in maybag:
-    maybag.append(123)
-
-
-print('bag is' ,maybag)
-
+print('range 外面要加list',list(range(0,100,15)))
 
 
