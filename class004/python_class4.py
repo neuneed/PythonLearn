@@ -73,7 +73,7 @@ print('...'.join(name),'\n')
 print('===============for 语句===============')
 
 aligut = []
-for i in range(100):
+for i in range(1,100):
     if i % 3 == 0:
         aligut.append(i)
 print('写法1',aligut)
