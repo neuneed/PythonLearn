@@ -84,3 +84,4 @@ print(s3)
 str123 = '哈哈傻比'
 print(str123) #python3 解决了 coding的问题
 
+import bs4
