@@ -7,19 +7,16 @@ class HtmlOutput(object):
         if data is None:
             return
         self.datas.append(data)
-        print(self.datas)
+        # print(self.datas)
 
 
     def output_html(self):
         fout = open('output.html', 'w', encoding='utf-8')
-
-
         fout.write("<html>")
         fout.write("<meta charset='utf-8'>")
 
         fout.write("<body>")
         fout.write("<table>")
-
 
         for data in self.datas:
             fout.write("<tr>")
@@ -29,9 +26,7 @@ class HtmlOutput(object):
             fout.write("</tr>")
 
         fout.write("</table>")
-
         fout.write("</body>")
-
         fout.write("</html>")
 
         fout.close()

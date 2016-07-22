@@ -29,7 +29,7 @@ class SpiderMain(object):
                 self.urls.add_new_urls(new_urls)  # url 添加到url管理器
                 self.outputer.collect_data(new_data)  # 收集数据
 
-                if count == 10000:
+                if count == 250:
                     break
                 count = count + 1
 

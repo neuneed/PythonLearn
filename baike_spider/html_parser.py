@@ -40,10 +40,9 @@ class HtmlParser(object):
         # print('parse123')
         if page_url is None or html_count is None:
             return
-
+        
         soup = BeautifulSoup(html_count , 'html.parser')
         new_urls = self._get_new_urls(page_url ,soup)
         new_data = self._get_new_data(page_url ,soup)
-        # print('%s %s',new_urls,new_data)
         return new_urls ,new_data
 
